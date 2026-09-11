@@ -1,9 +1,9 @@
 # **EASY_AI**
 hello everyone!👋
 
-**Introduction:**
-<br>
+# **Introduction:**
 today i'm make a simple code to run transformers LLM on **your PC** so **easy and fast**
+
 <br>
 
 # **Requirements**
